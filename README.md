@@ -4,9 +4,9 @@
 
 An analysis of the relationship between the miles per gallon vs vehicle length, vehicle weight, spoiler angle, ground clearance, and AWD was completed. 
 
-The lm function was used to perform a linear regression against all six variables. 
+The lm() function was used to perform a linear regression against all six variables. 
 
-![](images//lm.jpg)
+![](lm.jpg)
 
 The summary function was used to determine the p-value and r-squared value for the linear regression model.
 
@@ -14,7 +14,7 @@ p-value:5.35
 
 r-squared:0.7149
 
-![](images//summary.jpg)
+![](summary.jpg)
 
 
 ### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
