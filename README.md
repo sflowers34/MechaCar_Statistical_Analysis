@@ -20,8 +20,8 @@ r-squared:0.7149
 ### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 Based on the results of the liner regression the vehicle length and ground clearance variables provided a non-random amount of variance.
 
-## Is the slope of the linear model considered to be zero? Why or why not?
+### Is the slope of the linear model considered to be zero? Why or why not?
 The slope is not considered to be zero. The p-value is 5.35, which is lower than the significance level 0.05.
 
-## Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not? 
+### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not? 
 Based on the R-squared value of 0.71 we can confidently state that the model effectively predicts the mpg of MechaCar prototypes. 
