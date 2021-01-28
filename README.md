@@ -9,6 +9,7 @@ The lm function was used to perform a linear regression against all six variable
 ![](images//lm.jpg)
 
 The summary function was used to determine the p-value and r-squared value for the linear regression model.
+
 p-value:5.35
 
 r-squared:0.7149
