@@ -26,6 +26,19 @@ The slope is not considered to be zero. The p-value is 5.35, which is lower than
 ### Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not? 
 Based on the R-squared value of 0.71 we can confidently state that the model effectively predicts the mpg of MechaCar prototypes. 
 
-![](Images//lot_summary.jpg)
+## Summary Statistics on Suspension Coils
+
+Does the current manufacturing data meet the design specificiation for the MechaCar suspension coils which dictate that the variance of the suspension coils must not exceed 100 PSI in the total?
+
+The total summary table of the Suspension Coils is displayed below. Based are the results of Variance of 62.29356 in total summary table, we can conclude that the current manufacturuing data meets the design specifications for suspension coils. 
+
 
 ![](Images//total_summary.jpg)
+
+Does the current manufacturing data meet the design specificiation for the MechaCar suspension coils which dictate that the variance of the suspension coils must not exceed 100 PSI in the lot summary?
+
+The lot summary table of the Suspension Coils is displayed below. Based are the results of the Variance in the lot summary table, we can conclude that the current manufacturuing data does not meet the design specifications for suspension coils in Lot3 (Variance 170.2861), however the data does meet the design specifications for suspension coils in Lot1 (Variance 0.9759)  and Lot2 (Variance 7.4694). 
+
+![](Images//lot_summary.jpg)
+
+## T-Tests on Suspension Coils
